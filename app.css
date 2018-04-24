@@ -1,0 +1,105 @@
+.i1{
+    position: absolute;
+    top:0px;
+    left:10px;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    transition: all 0.4s;
+}
+
+.i1move{
+    position: absolute;
+    top:200px;
+    left:10px;
+    width: 500px;
+    height: 500px;
+    cursor: pointer;
+}
+
+.i2{
+    position: absolute;
+    top:0px;
+    left:120px;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    transition: all 0.4s;
+}
+
+.i2move{
+    position: absolute;
+    top:200px;
+    left:10px;
+    width: 500px;
+    height: 500px;
+    cursor: pointer;
+}
+
+.i3{
+    position: absolute;
+    top:0px;
+    left:240px;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    transition: all 0.4s;
+}
+
+.i3move{
+    position: absolute;
+    top:200px;
+    left:10px;
+    width: 500px;
+    height: 500px;
+    cursor: pointer;
+}
+
+
+.i4{
+    position: absolute;
+    top:0px;
+    left:360px;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    transition: all 0.4s;
+}
+
+.i4move{
+    position: absolute;
+    top:200px;
+    left:10px;
+    width: 500px;
+    height: 500px;
+    cursor: pointer;
+}
+
+
+.i5{
+    position: absolute;
+    top:0px;
+    left:480px;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    transition: all 0.4s;
+}
+
+.i5move{
+    position: absolute;
+    top:200px;
+    left:10px;
+    width: 500px;
+    height: 500px;
+    cursor: pointer;
+}
+
+.yellowBox{
+    position: absolute;
+    top: 200px;
+    left:10px;
+    width: 500px;
+    height : 500px;
+    background-color: burlywood;
+}
